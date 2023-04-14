@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="36px" viewBox="0 0 41 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Personalization_Icon</title>
+    <g id="Pixel_B2B_Website_FA_UPDATES" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage_D" transform="translate(-128.000000, -841.000000)" stroke="#1A73E8" stroke-width="3">
+            <g id="PILLAR_NAV" transform="translate(40.000000, 843.000000)">
+                <g id="Personalization_Icon" transform="translate(90.000000, 0.000000)">
+                    <rect id="Rectangle" stroke-linejoin="round" x="13" y="0" width="11" height="7" rx="1"></rect>
+                    <rect id="Rectangle" x="0" y="7" width="37" height="25" rx="4"></rect>
+                    <line x1="8.5" y1="9.5" x2="8.5" y2="31.5" id="Line" stroke-linecap="square"></line>
+                    <line x1="28.5" y1="9.5" x2="28.5" y2="31.5" id="Line-Copy" stroke-linecap="square"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

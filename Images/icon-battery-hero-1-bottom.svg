@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="30px" viewBox="0 0 16 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Battery_Icon</title>
+    <g id="Pixel_B2B_Website_FA_UPDATES" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage_D" transform="translate(-712.000000, -848.000000)" fill="#188038">
+            <g id="PILLAR_NAV" transform="translate(40.000000, 843.000000)">
+                <g id="Battery_Icon" transform="translate(672.000000, 5.000000)">
+                    <path d="M11,3 L13.505,3 C14.6,3 15.5,3.9 15.5,4.995 L15.5,28.005 C15.5,29.1 14.6,30 13.49,30 L2.495,30 C1.4,30 0.5,29.1 0.5,27.99 L0.5,4.995 C0.5,3.9 1.4,3 2.495,3 L5,3 L5,0 L11,0 L11,3 Z M6.5,18.75 L6.5,27 L12.5,15.75 L9.5,15.75 L9.5,7.5 L3.5,18.75 L6.5,18.75 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
